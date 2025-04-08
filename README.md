@@ -13,7 +13,8 @@
 - Banco de Dados: MySQL, SQL Server  
 - Ferramentas: Git, GitHub, VS Code, Figma (básico)  
 - Cursos complementares:  
-  - *Computer Hardware Basics* (Cisco)    
+  - *Computer Hardware Basics* (Cisco)
+  - *Python Basic* (Huawei)
   - *Introduction to Data Science* (Cisco)  
 
 🌱 **Atualmente aprendendo**  
