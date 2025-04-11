@@ -5,7 +5,7 @@
 ---
 
 🎓 **Formação**  
-- Técnico em Desenvolvimento de Sistemas - Etec Tiquatira (2024)  
+- Técnico em Desenvolvimento de Sistemas - Etec de Cidade Tiradentes (2024)  
 - Superior Tecnólogo em Análise e Desenvolvimento de Sistemas - Fatec Ferraz de Vasconcelos (em andamento)
 
 📌 **Conhecimentos Técnicos**  
@@ -18,10 +18,10 @@
   - *Introduction to Data Science* (Cisco)  
 
 🌱 **Atualmente aprendendo**  
-- Desenvolvimento Web  
+- Engenharia de Software  
 - Estrutura de Dados  
-- Boas práticas com Git  
-- Projeto de sistemas com foco no usuário  
+- Programação Orientada a Objetos  
+- Sistemas de Informação 
 
 📫 **Contato**  
 - ✉️ amanda.s.carvalho15@gmail.com  
