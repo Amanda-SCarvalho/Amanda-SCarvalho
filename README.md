@@ -9,20 +9,19 @@
 - Superior Tecnólogo em Análise e Desenvolvimento de Sistemas - Fatec Ferraz de Vasconcelos (em andamento)
 
 📌 **Conhecimentos Técnicos**  
-- Linguagens: Python, HTML5, CSS3, JavaScript (básico), Java (básico) 
+- Linguagens: Python, HTML5, CSS3, JavaScript (Intermediário), Java (básico) 
 - Banco de Dados: MySQL, SQL Server  
-- Ferramentas: Git, GitHub, VS Code, Figma (básico)  
+- Ferramentas: Git, GitHub, Figma (Intermediário)  
 - Cursos complementares:  
   - *Computer Hardware Basics* (Cisco)
   - *Python Basic* (Huawei)
   - *Introduction to Data Science* (Cisco)  
 
 🌱 **Atualmente aprendendo**  
-- Engenharia de Software  
-- Estrutura de Dados  
-- Programação Orientada a Objetos  
-- Sistemas de Informação 
-
+- Programação WEB
+- Programação para Dispositivos Móveis
+- Engenharia de Software
+  
 📫 **Contato**  
 - ✉️ amanda.s.carvalho15@gmail.com  
 - 📱 (11) 95204-8482  
