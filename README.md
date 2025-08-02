@@ -23,8 +23,7 @@
 - Engenharia de Software
   
 📫 **Contato**  
-- ✉️ amanda.s.carvalho15@gmail.com  
-- 📱 (11) 95204-8482  
+- ✉️ amanda.s.carvalho15@gmail.com   
 - 🌐 [LinkedIn](www.linkedin.com/in/Amanda-SCarvalho)
 
 ---
