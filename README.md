@@ -21,6 +21,7 @@
 - Programação WEB
 - Programação para Dispositivos Móveis
 - Engenharia de Software
+- Banco de Dados
   
 📫 **Contato**  
 - ✉️ amanda.s.carvalho15@gmail.com   
