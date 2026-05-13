@@ -83,7 +83,7 @@ HTML • CSS • JavaScript • Banco de Dados
 ## 🐍 Snake Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Amanda-SCarvalho/Amanda-SCarvalho/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Amanda-SCarvalho/Amanda-SCarvalho/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
