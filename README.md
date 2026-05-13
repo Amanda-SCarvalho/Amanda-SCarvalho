@@ -1,67 +1,113 @@
-# 👩‍💻 Amanda Santos de Carvalho
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&theme=midnight-purple" />
+</div>
 
-### 💻 Desenvolvedora Web em formação | Estudante de ADS | Apaixonada por tecnologia
+<div align="center">
+  <img height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0c3d4dDZ1MjllNXh0Y2QxaWVoZ2I1ZTczNThwNWhpaDJvNW4wdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" />
+</div>
 
----
+<h1 align="center">Olá 👋 Eu sou Amanda Carvalho</h1>
 
-## 🧠 Tecnologias que utilizo
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<h3 align="center">
+💻 Desenvolvedora Web em formação | Estudante de ADS
+</h3>
 
 ---
 
-## 🎓 Formação Acadêmica
+## 👩‍💻 Sobre mim
 
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas – FATEC Ferraz de Vasconcelos (em andamento)  
-- 🎓 Técnico em Desenvolvimento de Sistemas – ETEC Cidade Tiradentes (2024)
-
----
-
-## 📚 Aprendizado contínuo
-
-- Desenvolvimento Web (Front-end & Back-end)  
-- Engenharia de Software  
-- Banco de Dados e Modelagem  
-- APIs e Integração de Sistemas  
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas – FATEC
+- 💡 Apaixonada por tecnologia, design e inovação
+- 🚀 Desenvolvendo projetos web e mobile
+- 📚 Aprendendo React, Next.js e Spring Boot
+- 🌱 Sempre buscando evoluir como desenvolvedora
 
 ---
 
-## 🚀 Projetos em destaque
+## 🛠 Tecnologias
 
-### 📌 Aroê – Sistema de logística de medicamentos (DemoDay 2026)
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
+
+</div>
+
+---
+
+## 🚀 Projeto em destaque
+
+### 🌿 Aroê – Sistema de logística de medicamentos
+
 Plataforma digital para otimização de cotação e entrega de medicamentos manipulados, conectando farmácias e clientes.
 
-> 🔧 Tecnologias: HTML, CSS, JavaScript, Banco de Dados (em desenvolvimento)
+🔧 Tecnologias:
+HTML • CSS • JavaScript • Banco de Dados
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 Estatísticas
 
-![GitHub Streak](https://streak-stats.demolab.com?user=amanda-scarvalho&theme=tokyonight)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Amanda-SCarvalho&locale=pt-br&theme=midnight-purple&hide_border=false" height="220" />
+</div>
 
 ---
 
-## 🌱 Sobre mim
+## 🐍 Snake Animation
 
-Sou uma desenvolvedora em formação apaixonada por tecnologia, inovação e criação de soluções digitais. Tenho facilidade em aprender novas tecnologias, gosto de resolver problemas e busco sempre evoluir como profissional na área de desenvolvimento de software.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Amanda-SCarvalho/Amanda-SCarvalho/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
 ## 📫 Contato
 
-- ✉️ Email: amanda.s.carvalho15@gmail.com  
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-scarvalho) 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/amanda-scarvalho">
+  <img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:amanda.s.carvalho15@gmail.com">
+  <img src="https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 ## 💡 Filosofia
 
 > “O sucesso é a soma de pequenos esforços repetidos dia após dia.” – Robert Collier
+
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=midnight-purple" />
+</div>
